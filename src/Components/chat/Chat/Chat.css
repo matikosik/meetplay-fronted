@@ -1,0 +1,54 @@
+.messagesBox {
+  display: absolute;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 77%;
+  margin-left: 23%;
+  margin-top: auto;
+  background-color:#36393F;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: #40444B;
+  border-radius: 8px;
+  margin-top: 0vh;
+  height: 100vh;
+  width: 100%;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .messagesBox {
+    height: 100%;
+  }
+
+  .container {
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media (min-width: 480px) and (max-width: 1200px) {
+  .container {
+    width: 60%;
+  }
+}
+
+.messagesBoxDiv{
+  background-color: red;
+}
+
+.divChat {
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: #36393f;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}

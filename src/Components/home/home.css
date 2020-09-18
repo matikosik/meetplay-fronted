@@ -1,0 +1,154 @@
+.body {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: #36393f;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto";
+}
+
+.itemBarBlur {
+  position: relative;
+  width: 23%;
+  height: 100%;
+  background-color: #202225;
+  filter: blur(4px);
+}
+
+.itemBar {
+  position: relative;
+  margin-top: -53.7%;
+  width: 23%;
+  height: 100%;
+}
+
+.topLogoMain {
+  width: 100%;
+  margin-top: 2%;
+  margin-left: -8%;
+}
+
+.buttons {
+  position: fixed;
+  margin-top: 30%;
+  color: white;
+}
+
+.dividers {
+  border-top: 3% solid #bbb;
+  margin-top: 15%;
+}
+
+.dividerYellow {
+  color: #fdcb30;
+  margin-top: -19%;
+}
+
+.buttonsImg {
+  margin-left: 10%;
+}
+
+.buttonsText {
+  margin-left: 10%;
+}
+
+.matchBtn {
+  width: 35%;
+  margin-left: -2%;
+}
+
+.matchTxt {
+  margin-left: 34%;
+  margin-top: -22%;
+}
+
+.messageBtn {
+  width: 20%;
+  margin-left: 6%;
+  margin-top: 3%;
+}
+
+.messageTxt {
+  margin-left: 34%;
+  margin-top: -16%;
+}
+
+.editProfileBtn {
+  width: 20%;
+  margin-left: 6%;
+  margin-top: 4%;
+}
+
+.editProfileTxt {
+  margin-left: 34%;
+  margin-top: -15%;
+}
+
+.preferencesBtn {
+  width: 20%;
+  margin-left: 6%;
+  margin-top: 4%;
+}
+
+.preferencesTxt {
+  margin-left: 34%;
+  margin-top: -16%;
+}
+
+.vinculateBtn {
+  width: 20%;
+  margin-left: 6%;
+  margin-top: 4%;
+}
+
+.vinculateTxt {
+  margin-left: 34%;
+  margin-top: -16%;
+}
+
+.meetplayDescription {
+  position: fixed;
+  margin-top: -45%;
+  margin-left: 23%;
+}
+
+.logoDescription {
+  width: 70%;
+  margin-top: -13%;
+  margin-left: 5%;
+}
+
+.descriptionTxt {
+  width: 70%;
+  margin-left: 15%;
+  margin-top: -13%;
+  color: white;
+  font-size: 15.2px;
+}
+
+.descriptionTxt1 {
+  font-size: 50px;
+}
+
+.descriptionTxt3 {
+  margin-top: 5%;
+}
+
+.descriptionTxtYellow {
+  color: #fdcb30;
+  margin-top: -2%;
+}
+
+.registerLoginButton {
+  position: absolute;
+  width: 338px;
+  height: 83px;
+  left: 1557px;
+  top: 25px;
+}
+
+.form {
+  position: absolute;
+}

@@ -1,0 +1,141 @@
+.mainCardB {
+  position: absolute;
+  width: 55vh;
+  height: 78vh;
+  margin-top: 9%;
+  margin-left: 12%;
+
+  background: #40444b;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.nameDivB {
+  margin-left: 25%;
+  transform: translateY(70%);
+}
+
+.ilanguagesDivB {
+  margin-top: 16%;
+}
+
+.ilanguagesDivInsideB {
+  margin-top: -8%;
+  background-color: #6f6f6f;
+  height: 15vh;
+}
+
+.languagesInputDivB {
+  background-color: #c4c4c4;
+  margin-left: 40%;
+  width: 32vh;
+  height: 3vh;
+  transform: translateY(-180%);
+  border-radius: 40px;
+}
+
+.languagesInputB {
+  background-color: #c4c4c4;
+  margin-left: 13%;
+  width: 37%;
+  margin-top: 2%;
+  transform: scale(1.5, 1.5);
+  border: none;
+}
+
+.languagesButtonB {
+  background-color: #fdcb30;
+  border-radius: 40px;
+  width: 30%;
+  height: 2.6vh;
+  transform: translateY(-87%);
+  margin-left: 68%;
+}
+
+.txtButtonsB {
+  margin-top: 2.9%;
+  color: #474545;
+}
+
+.gamesDivInsideB {
+  margin-top: -8%;
+  background-color: #6f6f6f;
+  height: 15vh;
+}
+
+.txtB {
+  margin-top: 2%;
+  color: #6f6f6f;
+  font-size: 25px;
+}
+
+.txt1B {
+    margin-top: -5%;
+    color: #6f6f6f;
+    font-size: 25px;
+  }
+
+.txtRedB {
+  margin-top: -5%;
+  color: red;
+  font-size: 25px;
+}
+
+.txt1AgeB {
+    margin-top: -5%;
+    color: #6f6f6f;
+    font-size: 20px;
+  }
+
+.txtRedAgeB {
+  margin-top: -5%;
+  color: red;
+  font-size: 20px;
+}
+
+.divToMapB {
+  background-color: #c4c4c4;
+  display: inline-block;
+  position: relative;
+  width: max-content;
+  margin-left: 5%;
+  margin-top: 1.5%;
+  border-radius: 5px;
+  transform: scale(1.2, 1.2);
+}
+
+.defultPhotoStyleB {
+  position: fixed;
+  width: 15%;
+  margin-top: -1.5%;
+  transform: translateX(-4%);
+}
+
+.DecripcionDivB {
+  margin-top: 1.8%;
+}
+
+.DecripcionDivInsideB {
+  margin-top: 9%;
+}
+
+.submitButtonB {
+    transform: translateY(2%);
+    margin-left: -80%;
+    background: #FDCB30;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 50px;
+    width: 40%;
+    height: 5%;
+    transform: scale(1.5, 1.5);
+}
+
+.submitButtonTxtB {
+    position: fixed;
+    margin-top: -3%;
+    margin-left: 32%;
+    color: #6F6F6F;
+}

@@ -1,0 +1,87 @@
+.mainCard {
+    position: absolute;
+    width: 55vh;
+    height: 78vh;
+    margin-top: 9%;
+    margin-left: 12%;
+  
+    background: #40444b;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 30px;
+  
+    font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu",
+      "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  }
+
+  .nameDiv {
+    margin-left: 25%;
+    transform: translateY(40%);
+  }
+  
+  .ilanguagesDiv {
+    margin-top: 12%;
+  }
+  
+  .ilanguagesDivInside {
+    margin-top: 0%;
+    background-color: #6f6f6f;
+    height: 16vh;
+  }
+  
+  .languagesInputDiv {
+    background-color: #c4c4c4;
+    margin-left: 40%;
+    width: 32vh;
+    height: 3vh;
+    transform: translateY(-180%);
+    border-radius: 40px;
+  }
+  
+
+  .gamesDivInside {
+    margin-top: -3%;
+    background-color: #6f6f6f;
+    height: 16vh;
+  }
+  
+  .txt {
+    margin-top: 0%;
+    margin-left: 2%;
+    color: #6f6f6f;
+    font-size: 25px;
+  }
+  
+  .divToMap {
+    background-color: #c4c4c4;
+    display: inline-block;
+    position: relative;
+    width: max-content;
+    margin-left: 5%;
+    margin-top: 1.5%;
+    border-radius: 5px;
+    transform: scale(1.2, 1.2);
+  }
+  
+  .defultPhotoStyle {
+    position: absolute;
+    width: 25%;
+    margin-top: -0.5%;
+    /* transform: translateX(-4%); */
+  }
+  
+  .DecripcionDiv {
+    margin-top: 1%;
+  }
+  
+  .DecripcionDivInside {
+    margin-top: -4%;
+  }
+  
+  .txtAAA{
+    position: relative;
+    color: white;
+    font-weight: bold;
+    transform: scale(1.5, 1.5);
+    margin-top: 3%;
+    margin-left: 20%;
+  }

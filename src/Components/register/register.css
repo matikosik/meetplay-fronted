@@ -1,0 +1,59 @@
+.body {
+  position: fixed;
+  top: 0%;
+  left: 0%;
+  width: 100%;
+  height: 100%;
+  background-color: #36393f;
+
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", "Oxygen", "Ubuntu",
+    "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+}
+
+.topLogoAA {
+  width: 26%;
+  margin-top: -4.5%;
+  margin-left: 36%;
+}
+
+.upperLogo {
+  position: relative;
+  width: 100%;
+  height: 15%;
+  background-color: #202225;
+}
+
+.inputsDiv1 {
+  margin-left: -0%;
+  margin-top: -3%;
+}
+
+.leftInput {
+  background-color: #36393f;
+  margin-top: 7%;
+  top: -2%;
+  margin-left: 20%;
+  transform: scale(1.7, 1.7);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  color: #6f6f6f;
+}
+
+.inputsDiv2 {
+  margin-left: 50%;
+  margin-top: -39.95%;
+  transform: translateX(20%);
+}
+
+.rightInput {
+  background-color: #36393f;
+  margin-top: 14%;
+  top: -2%;
+  margin-left: 20%;
+  transform: scale(1.7, 1.7);
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  color: #6f6f6f;
+}
